@@ -1,3 +1,5 @@
+# Выпускная квалификационная работа бакалавра 
+# Стельмах Яна Сергеевна ИУ5-84Б
 # Предсказание: что будет чувствовать покупатель до приобретения продукта
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/zenml)](https://pypi.org/project/zenml/)
